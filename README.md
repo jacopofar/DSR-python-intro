@@ -1,5 +1,7 @@
 # DSR-Python-Intro
 
+__Note__: this is based on the [original material from here](https://github.com/GenomZ/DSR-Python-Intro)
+
 ## Introduction to most important Python concepts
 
 Students should know about Python (at least) the following topics
