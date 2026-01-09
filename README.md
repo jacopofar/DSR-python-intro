@@ -1,6 +1,10 @@
 # DSR-Python-Intro
 
-__Note__: this is based on the [original material from here](https://github.com/GenomZ/DSR-Python-Intro)
+This is the material for the Python lesson on DSR.
+
+It includes notebooks about NumPy and Pandas but the lesson will be mostly about pure Python,
+
+(__Note__: this is based on the [original material from here](https://github.com/GenomZ/DSR-Python-Intro)).
 
 ## Introduction to most important Python concepts
 
@@ -19,7 +23,7 @@ Students should know about Python (at least) the following topics
 - Functions and arguments, importing packages, scopes
 - Anonymous functions: lambda
 
-## Numpy
+## Numpy (extra)
 - What are numpy arrays and why we need them
 - How to create different types of numpy arrays
 	- From lists
@@ -34,7 +38,7 @@ Students should know about Python (at least) the following topics
 - Broadcasting!! IMPORTANT!!
 - Comparisons, Masks and fancy indexing
 
-## Pandas
+## Pandas (extra)
 - What is pandas and how is it different from Numpy
 - What are series and dataframes
 - creating series and dataframes
