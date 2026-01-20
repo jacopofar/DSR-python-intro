@@ -7,5 +7,5 @@ def count_vowels(txt: str) -> int:
 
 print(count_vowels("hello"))
 # this works even though the type is wrong
-# and the comparison gives wrong results
+# and the comparison gives wrong results 
 print(count_vowels(['hel', 'lo']))
